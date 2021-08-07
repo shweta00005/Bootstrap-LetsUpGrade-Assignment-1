@@ -1,0 +1,21 @@
+.my-container{
+    background-color: rgb(159, 233, 10);
+    height: 100vh;
+    
+}
+.row-1{
+    height: 150px;
+    background-color: rgb(223, 10, 205);
+    text-align:center;
+}
+.row-2{
+    height: 150px;
+    background-color: rgb(15, 178, 228);
+    text-align:center;
+}
+.row-3{
+    height: 150px;
+    background-color: rgb(255, 230, 0);
+    text-align:center;
+}
+    
